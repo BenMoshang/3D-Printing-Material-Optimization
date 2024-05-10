@@ -1,2 +1,2 @@
-# Etsy-Trend-Scraper
-In order to outperform other businesses, I developed this software to scrape Etsy for the most popular trends.
+# 3D-print
+In order to print the most optimal settings for my filaments. This repo displays the settings needed for each individual filament.
